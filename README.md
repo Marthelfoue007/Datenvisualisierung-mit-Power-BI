@@ -4,9 +4,9 @@ Mini-Projekt: Daten laden & Transformieren
 
 Arbeitsschritte:
 
-Daten laden(Excel Quelle)
+Daten laden (Excel Quelle)
 
-Daten transformieren(Abfrage-Editor)
+Daten transformieren (Abfrage-Editor)
 
 Datenvisualisieren
 
